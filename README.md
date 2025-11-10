@@ -1,6 +1,6 @@
 # Exam_conducting_app
 This is a django app that creates and conducts exams with Sql as database.
-
+This is done as a project of course itw2
 
 Group no. 29
 
